@@ -2,7 +2,7 @@ name: Auto commit
 
 on:      
   schedule:
-  - cron: "* * * * *"
+  - cron: "*/5 * * * *"
 jobs:
   build:
     name: Make gitartwork SVG
