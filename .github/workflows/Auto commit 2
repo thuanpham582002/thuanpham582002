@@ -1,0 +1,37 @@
+name: Auto commit 2
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+  - cron: "*/5 * * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jasineri/gitartwork@v1
+        with:
+          # Use this username's contribution graph
+          user_name: tienthuan05082002
+          # Text on contribution graph
+          text: noroom113
+        name: Checkout
+      - name: "Import GPG key"
+        id: import-gpg
+        uses: crazy-max/ghaction-import-gpg@v6
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update action output
+          file_pattern: gitartwork.svg
+          commit_author: "${{ steps.import-gpg.outputs.name }} <${{ steps.import-gpg.outputs.email }}>"
+          commit_user_name: ${{ steps.import-gpg.outputs.name }}
+          commit_user_email: ${{ steps.import-gpg.outputs.email }}
