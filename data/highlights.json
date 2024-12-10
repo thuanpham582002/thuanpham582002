@@ -10,10 +10,10 @@
       "focusOffset": 1,
       "href": "https://github.com/thuanpham582002/thuanpham582002",
       "string": "i the",
-      "uuid": "5306926e-3dde-4306-84fb-91977aa4f6f8",
-      "version": "6.0.0",
       "textColor": "inherit",
-      "updatedAt": 1733822723969
+      "updatedAt": 1733822723969,
+      "uuid": "5306926e-3dde-4306-84fb-91977aa4f6f8",
+      "version": "6.0.0"
     },
     {
       "anchorNode": "#repo-content-pjax-container>div:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(1)>react-partial:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(3)>div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(2)>article:nth-of-type(1)>div:nth-of-type(1)>h3:nth-of-type(1)>textNode:nth-of-type(1)",
@@ -57,6 +57,21 @@
       "updatedAt": 1733822722442,
       "uuid": "6aab7e60-d698-4185-851a-23130b49a6d0",
       "version": "6.0.0"
+    }
+  ],
+  "kafka.apache.org/documentation/": [
+    {
+      "version": "6.0.0",
+      "string": "Event streaming",
+      "container": "html>body:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(2)>div:nth-of-type(3)>div:nth-of-type(1)>p:nth-of-type(1)",
+      "anchorNode": "html>body:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(2)>div:nth-of-type(3)>div:nth-of-type(1)>p:nth-of-type(1)>textNode:nth-of-type(0)",
+      "anchorOffset": 5,
+      "focusNode": "html>body:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(2)>div:nth-of-type(3)>div:nth-of-type(1)>p:nth-of-type(1)>textNode:nth-of-type(0)",
+      "focusOffset": 20,
+      "color": "rgb(255, 246, 21)",
+      "href": "https://kafka.apache.org/documentation/#connectapi",
+      "uuid": "53942401-789b-456b-bd66-0fc0d38b2846",
+      "createdAt": 1733822968348
     }
   ]
 }
