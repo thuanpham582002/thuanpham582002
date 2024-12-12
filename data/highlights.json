@@ -119,17 +119,19 @@
   ],
   "knowt.com/study/flashcards/a4be27c9-6ed2-48a7-b274-973d5f7fd41f/spaced": [
     {
-      "version": "6.0.0",
-      "string": "omeone",
-      "container": "#dictionary-extension>div:nth-of-type(1)>div:nth-of-type(1)>ul:nth-of-type(1)>li:nth-of-type(1)",
       "anchorNode": "#dictionary-extension>div:nth-of-type(1)>div:nth-of-type(1)>ul:nth-of-type(1)>li:nth-of-type(1)>textNode:nth-of-type(0)",
       "anchorOffset": 14,
+      "color": "inherit",
+      "container": "#dictionary-extension>div:nth-of-type(1)>div:nth-of-type(1)>ul:nth-of-type(1)>li:nth-of-type(1)",
+      "createdAt": 1734007023071,
       "focusNode": "#dictionary-extension>div:nth-of-type(1)>div:nth-of-type(1)>ul:nth-of-type(1)>li:nth-of-type(1)>textNode:nth-of-type(0)",
       "focusOffset": 20,
-      "color": "rgb(255, 246, 21)",
       "href": "https://knowt.com/study/flashcards/a4be27c9-6ed2-48a7-b274-973d5f7fd41f/spaced",
+      "string": "omeone",
       "uuid": "bf0963df-b0e6-404a-8927-b4262d34c317",
-      "createdAt": 1734007023071
+      "version": "6.0.0",
+      "textColor": "inherit",
+      "updatedAt": 1734007052780
     }
   ]
 }
