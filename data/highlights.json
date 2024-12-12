@@ -14,17 +14,17 @@
       "version": "6.0.0"
     },
     {
-      "version": "6.0.0",
-      "string": "familiar",
-      "container": "#contentstart>div:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(1)>p:nth-of-type(3)",
       "anchorNode": "#contentstart>div:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(1)>p:nth-of-type(3)>textNode:nth-of-type(0)",
       "anchorOffset": 215,
+      "color": "rgb(255, 246, 21)",
+      "container": "#contentstart>div:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(1)>p:nth-of-type(3)",
+      "createdAt": 1733824024569,
       "focusNode": "#contentstart>div:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(1)>p:nth-of-type(3)>textNode:nth-of-type(0)",
       "focusOffset": 223,
-      "color": "rgb(255, 246, 21)",
       "href": "https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying",
+      "string": "familiar",
       "uuid": "82bcbdb3-f80c-4925-9b93-c1bbcc368ff2",
-      "createdAt": 1733824024569
+      "version": "6.0.0"
     }
   ],
   "github.com/thuanpham582002/thuanpham582002": [
@@ -115,6 +115,21 @@
       "updatedAt": 1733823160511,
       "uuid": "7aeb5195-ce82-4105-bc99-5db4d666d708",
       "version": "6.0.0"
+    }
+  ],
+  "knowt.com/study/flashcards/a4be27c9-6ed2-48a7-b274-973d5f7fd41f/spaced": [
+    {
+      "version": "6.0.0",
+      "string": "omeone",
+      "container": "#dictionary-extension>div:nth-of-type(1)>div:nth-of-type(1)>ul:nth-of-type(1)>li:nth-of-type(1)",
+      "anchorNode": "#dictionary-extension>div:nth-of-type(1)>div:nth-of-type(1)>ul:nth-of-type(1)>li:nth-of-type(1)>textNode:nth-of-type(0)",
+      "anchorOffset": 14,
+      "focusNode": "#dictionary-extension>div:nth-of-type(1)>div:nth-of-type(1)>ul:nth-of-type(1)>li:nth-of-type(1)>textNode:nth-of-type(0)",
+      "focusOffset": 20,
+      "color": "rgb(255, 246, 21)",
+      "href": "https://knowt.com/study/flashcards/a4be27c9-6ed2-48a7-b274-973d5f7fd41f/spaced",
+      "uuid": "bf0963df-b0e6-404a-8927-b4262d34c317",
+      "createdAt": 1734007023071
     }
   ]
 }
