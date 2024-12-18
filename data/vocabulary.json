@@ -1,0 +1,107 @@
+[
+  {
+    "description": "This is a test description 1",
+    "previousInterval": 0,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734546784433,
+    "word": "Test Word 1"
+  },
+  {
+    "description": "This is a test description 2",
+    "previousInterval": 0,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734546759488,
+    "word": "Test Word 2"
+  },
+  {
+    "description": "This is a test description 1",
+    "previousInterval": 0,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734546784433,
+    "word": "Test Word 1"
+  },
+  {
+    "description": "This is a test description 2",
+    "previousInterval": 0,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734546759488,
+    "word": "Test Word 2"
+  },
+  {
+    "description": "This is a test description 1",
+    "previousInterval": 0,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734546784433,
+    "word": "Test Word 1"
+  },
+  {
+    "description": "This is a test description 2",
+    "previousInterval": 0,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734546759488,
+    "word": "Test Word 2"
+  },
+  {
+    "description": "This is a test description 1",
+    "previousInterval": 0,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734546784433,
+    "word": "Test Word 1"
+  },
+  {
+    "description": "This is a test description 2",
+    "previousInterval": 0,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734546759488,
+    "word": "Test Word 2"
+  },
+  {
+    "description": "This is a test description 1",
+    "previousInterval": 0,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734546784433,
+    "word": "Test Word 1"
+  },
+  {
+    "description": "This is a test description 2",
+    "previousInterval": 0,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734546759488,
+    "word": "Test Word 2"
+  },
+  {
+    "description": "This is a test description 1",
+    "previousInterval": 0,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734546784433,
+    "word": "Test Word 1"
+  },
+  {
+    "description": "This is a test description 2",
+    "previousInterval": 0,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734546759488,
+    "word": "Test Word 2"
+  },
+  {
+    "description": "This is a test description 1",
+    "previousInterval": 0,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734546784433,
+    "word": "Test Word 1"
+  },
+  {
+    "description": "This is a test description 2",
+    "previousInterval": 0,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734546759488,
+    "word": "Test Word 2"
+  },
+  {
+    "word": "conservatively",
+    "description": "(adv) bảo thủ, dè dặt",
+    "showAfterSeconds": 3600,
+    "timestamp": 1734549266179,
+    "previousInterval": 0
+  }
+]
