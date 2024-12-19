@@ -126,10 +126,17 @@
     "word": "excessive"
   },
   {
-    "word": "engagement",
     "description": "(n) sự hứa hẹn, cam kết",
+    "previousInterval": 0,
     "showAfterSeconds": 3600,
     "timestamp": 1734568060534,
+    "word": "engagement"
+  },
+  {
+    "word": "plenty",
+    "description": "(n): nhiều, dồi dào",
+    "showAfterSeconds": 3600,
+    "timestamp": 1734568064555,
     "previousInterval": 0
   }
 ]
