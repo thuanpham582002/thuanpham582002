@@ -1,9 +1,9 @@
 [
   {
-    "word": "Test Word 1",
-    "description": "This is a test description 1",
-    "showAfterSeconds": 3600,
-    "timestamp": 1734574643368,
+    "word": "critical",
+    "description": "(adj) phê bình, phê phán, chỉ trích",
+    "showAfterSeconds": 59,
+    "timestamp": 1734576220385,
     "previousInterval": 0
   }
 ]
