@@ -7,10 +7,17 @@
     "word": "escort"
   },
   {
-    "word": "cause",
     "description": "(n) nguyên nhân, lý do, căn nguyên [ kɔːz ]",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734576256416,
+    "word": "cause"
+  },
+  {
+    "word": "modify",
+    "description": "(v) biến đổi, sửa đổi",
+    "showAfterSeconds": 59,
+    "timestamp": 1734576307260,
     "previousInterval": 0
   }
 ]
