@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "word": "Test Word 1",
+    "description": "This is a test description 1",
+    "showAfterSeconds": 3600,
+    "timestamp": 1734574643368,
+    "previousInterval": 0
+  }
+]
