@@ -91,10 +91,17 @@
     "word": "defective"
   },
   {
-    "word": "tend",
     "description": "(v) có khuynh hướng, chăm sóc",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734583745814,
+    "word": "tend"
+  },
+  {
+    "word": "favorably",
+    "description": "(adv) thuận lợi, có ích",
+    "showAfterSeconds": 60,
+    "timestamp": 1734583929701,
     "previousInterval": 0
   }
 ]
