@@ -58,8 +58,8 @@
   {
     "description": "(v) buộc, thắt",
     "previousInterval": 0,
-    "showAfterSeconds": 59,
-    "timestamp": 1734580735342,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734581574411,
     "word": "tying"
   },
   {
@@ -70,10 +70,10 @@
     "word": "surplus"
   },
   {
-    "word": "majority",
     "description": "(n) phần lớn, đa số",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734580834729,
-    "previousInterval": 0
+    "word": "majority"
   }
 ]
