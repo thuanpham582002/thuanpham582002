@@ -3,7 +3,7 @@
     "description": "This is a test description 1",
     "previousInterval": 0,
     "showAfterSeconds": 3600,
-    "timestamp": 1734546784433,
+    "timestamp": 1734568687600,
     "word": "Test Word 1"
   },
   {
@@ -140,10 +140,10 @@
     "word": "plenty"
   },
   {
-    "word": "prevent",
     "description": "(v) ngăn ngừa, cản trở",
+    "previousInterval": 0,
     "showAfterSeconds": 3600,
     "timestamp": 1734568427214,
-    "previousInterval": 0
+    "word": "prevent"
   }
 ]
