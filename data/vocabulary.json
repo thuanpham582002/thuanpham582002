@@ -79,8 +79,8 @@
   {
     "description": "(n) sự thèm muốn",
     "previousInterval": 0,
-    "showAfterSeconds": 60,
-    "timestamp": 1734581658562,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734582555302,
     "word": "craving"
   }
 ]
