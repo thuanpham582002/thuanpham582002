@@ -112,10 +112,17 @@
     "word": "sentiment"
   },
   {
-    "word": "in case",
     "description": "(conj) trong trường hợp khẩn, phòng khi",
+    "previousInterval": 0,
     "showAfterSeconds": 3600,
     "timestamp": 1734568052425,
+    "word": "in case"
+  },
+  {
+    "word": "excessive",
+    "description": "(adj) quá mức",
+    "showAfterSeconds": 3600,
+    "timestamp": 1734568055857,
     "previousInterval": 0
   }
 ]
