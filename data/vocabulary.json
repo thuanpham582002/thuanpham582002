@@ -101,7 +101,7 @@
     "description": "(adv) bảo thủ, dè dặt",
     "previousInterval": 0,
     "showAfterSeconds": 3600,
-    "timestamp": 1734549266179,
+    "timestamp": 1734568092955,
     "word": "conservatively"
   },
   {
@@ -133,10 +133,10 @@
     "word": "engagement"
   },
   {
-    "word": "plenty",
     "description": "(n): nhiều, dồi dào",
+    "previousInterval": 0,
     "showAfterSeconds": 3600,
     "timestamp": 1734568064555,
-    "previousInterval": 0
+    "word": "plenty"
   }
 ]
