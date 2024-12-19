@@ -119,10 +119,17 @@
     "word": "in case"
   },
   {
-    "word": "excessive",
     "description": "(adj) quá mức",
+    "previousInterval": 0,
     "showAfterSeconds": 3600,
     "timestamp": 1734568055857,
+    "word": "excessive"
+  },
+  {
+    "word": "engagement",
+    "description": "(n) sự hứa hẹn, cam kết",
+    "showAfterSeconds": 3600,
+    "timestamp": 1734568060534,
     "previousInterval": 0
   }
 ]
