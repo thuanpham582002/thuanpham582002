@@ -28,10 +28,17 @@
     "word": "uneventful"
   },
   {
-    "word": "harmful",
     "description": "(adj) có hại, gây tác hại",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734580135692,
+    "word": "harmful"
+  },
+  {
+    "word": "traditional",
+    "description": "(adj) truyền thống",
+    "showAfterSeconds": 59,
+    "timestamp": 1734580169122,
     "previousInterval": 0
   }
 ]
