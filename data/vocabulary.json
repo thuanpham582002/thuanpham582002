@@ -1,9 +1,16 @@
 [
   {
-    "word": "Test Word 1",
     "description": "This is a test description 1",
+    "previousInterval": 0,
     "showAfterSeconds": 3600,
-    "timestamp": 1734574643368,
+    "timestamp": 1734574643369,
+    "word": "Test Word 1"
+  },
+  {
+    "word": "sentiment",
+    "description": "(n): tình cảm",
+    "showAfterSeconds": 3600,
+    "timestamp": 1734574643804,
     "previousInterval": 0
   }
 ]
