@@ -1,16 +1,16 @@
 [
   {
-    "description": "(adj) phê bình, phê phán, chỉ trích",
+    "description": "(n) người dẫn đường, người đi theo, người hộ tống, (v)",
     "previousInterval": 0,
     "showAfterSeconds": 59,
-    "timestamp": 1734576220385,
-    "word": "critical"
+    "timestamp": 1734576237057,
+    "word": "escort"
   },
   {
-    "word": "escort",
-    "description": "(n) người dẫn đường, người đi theo, người hộ tống, (v)",
+    "word": "cause",
+    "description": "(n) nguyên nhân, lý do, căn nguyên [ kɔːz ]",
     "showAfterSeconds": 59,
-    "timestamp": 1734576237057,
+    "timestamp": 1734576256416,
     "previousInterval": 0
   }
 ]
