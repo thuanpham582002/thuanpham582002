@@ -49,10 +49,17 @@
     "word": "advantage"
   },
   {
-    "word": "extension",
     "description": "(n) sự mở rộng, sự gia hạn",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734580725833,
+    "word": "extension"
+  },
+  {
+    "word": "tying",
+    "description": "(v) buộc, thắt",
+    "showAfterSeconds": 59,
+    "timestamp": 1734580735342,
     "previousInterval": 0
   }
 ]
