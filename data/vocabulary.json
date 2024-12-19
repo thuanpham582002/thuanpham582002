@@ -110,5 +110,12 @@
     "showAfterSeconds": 59,
     "timestamp": 1734584049388,
     "word": "qualify"
+  },
+  {
+    "word": "traffic",
+    "description": "(n) lưu lượng",
+    "showAfterSeconds": 60,
+    "timestamp": 1734584248677,
+    "previousInterval": 0
   }
 ]
