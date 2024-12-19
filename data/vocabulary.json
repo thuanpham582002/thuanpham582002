@@ -94,7 +94,7 @@
     "description": "(v) có khuynh hướng, chăm sóc",
     "previousInterval": 0,
     "showAfterSeconds": 60,
-    "timestamp": 1734583745814,
+    "timestamp": 1734584057933,
     "word": "tend"
   },
   {
@@ -105,10 +105,10 @@
     "word": "favorably"
   },
   {
-    "word": "qualify",
     "description": "(v) đủ điều kiện, đủ tiêu chuẩn",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734584049388,
-    "previousInterval": 0
+    "word": "qualify"
   }
 ]
