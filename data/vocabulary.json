@@ -101,7 +101,7 @@
     "description": "(adv) thuận lợi, có ích",
     "previousInterval": 0,
     "showAfterSeconds": 60,
-    "timestamp": 1734583929701,
+    "timestamp": 1734584252611,
     "word": "favorably"
   },
   {
@@ -112,10 +112,10 @@
     "word": "qualify"
   },
   {
-    "word": "traffic",
     "description": "(n) lưu lượng",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734584248677,
-    "previousInterval": 0
+    "word": "traffic"
   }
 ]
