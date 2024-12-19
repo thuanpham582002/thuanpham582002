@@ -98,10 +98,17 @@
     "word": "Test Word 2"
   },
   {
-    "word": "conservatively",
     "description": "(adv) bảo thủ, dè dặt",
+    "previousInterval": 0,
     "showAfterSeconds": 3600,
     "timestamp": 1734549266179,
+    "word": "conservatively"
+  },
+  {
+    "word": "sentiment",
+    "description": "(n): tình cảm",
+    "showAfterSeconds": 3600,
+    "timestamp": 1734568047801,
     "previousInterval": 0
   }
 ]
