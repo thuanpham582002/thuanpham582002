@@ -56,10 +56,17 @@
     "word": "extension"
   },
   {
-    "word": "tying",
     "description": "(v) buộc, thắt",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734580735342,
+    "word": "tying"
+  },
+  {
+    "word": "surplus",
+    "description": "(n) số dư, thừa",
+    "showAfterSeconds": 60,
+    "timestamp": 1734580829946,
     "previousInterval": 0
   }
 ]
