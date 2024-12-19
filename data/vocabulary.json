@@ -105,10 +105,17 @@
     "word": "conservatively"
   },
   {
-    "word": "sentiment",
     "description": "(n): tình cảm",
+    "previousInterval": 0,
     "showAfterSeconds": 3600,
     "timestamp": 1734568047801,
+    "word": "sentiment"
+  },
+  {
+    "word": "in case",
+    "description": "(conj) trong trường hợp khẩn, phòng khi",
+    "showAfterSeconds": 3600,
+    "timestamp": 1734568052425,
     "previousInterval": 0
   }
 ]
