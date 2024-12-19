@@ -37,8 +37,8 @@
   {
     "description": "(adj) truyền thống",
     "previousInterval": 0,
-    "showAfterSeconds": 59,
-    "timestamp": 1734580169122,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734581923090,
     "word": "traditional"
   },
   {
@@ -77,10 +77,10 @@
     "word": "majority"
   },
   {
-    "word": "craving",
     "description": "(n) sự thèm muốn",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734581658562,
-    "previousInterval": 0
+    "word": "craving"
   }
 ]
