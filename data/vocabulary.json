@@ -98,10 +98,17 @@
     "word": "tend"
   },
   {
-    "word": "favorably",
     "description": "(adv) thuận lợi, có ích",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734583929701,
+    "word": "favorably"
+  },
+  {
+    "word": "qualify",
+    "description": "(v) đủ điều kiện, đủ tiêu chuẩn",
+    "showAfterSeconds": 59,
+    "timestamp": 1734584049388,
     "previousInterval": 0
   }
 ]
