@@ -21,10 +21,17 @@
     "word": "modify"
   },
   {
-    "word": "uneventful",
     "description": "(adj) Yên ổn, không có chuyện gì xảy ra.",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
-    "timestamp": 1734579906978,
+    "timestamp": 1734579906988,
+    "word": "uneventful"
+  },
+  {
+    "word": "harmful",
+    "description": "(adj) có hại, gây tác hại",
+    "showAfterSeconds": 60,
+    "timestamp": 1734580135692,
     "previousInterval": 0
   }
 ]
