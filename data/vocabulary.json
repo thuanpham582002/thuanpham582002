@@ -138,5 +138,12 @@
     "showAfterSeconds": 3600,
     "timestamp": 1734568064555,
     "word": "plenty"
+  },
+  {
+    "word": "prevent",
+    "description": "(v) ngăn ngừa, cản trở",
+    "showAfterSeconds": 3600,
+    "timestamp": 1734568427214,
+    "previousInterval": 0
   }
 ]
