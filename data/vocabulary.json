@@ -35,10 +35,17 @@
     "word": "harmful"
   },
   {
-    "word": "traditional",
     "description": "(adj) truyền thống",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734580169122,
+    "word": "traditional"
+  },
+  {
+    "word": "advantage",
+    "description": "(n) lợi thế",
+    "showAfterSeconds": 60,
+    "timestamp": 1734580670970,
     "previousInterval": 0
   }
 ]
