@@ -57,9 +57,9 @@
   },
   {
     "description": "(v) buộc, thắt",
-    "previousInterval": 0,
-    "showAfterSeconds": 3600,
-    "timestamp": 1734581574411,
+    "previousInterval": 86400,
+    "showAfterSeconds": 345600,
+    "timestamp": 1734591139722,
     "word": "tying"
   },
   {
