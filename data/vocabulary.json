@@ -2,8 +2,8 @@
   {
     "description": "(n) người dẫn đường, người đi theo, người hộ tống, (v)",
     "previousInterval": 0,
-    "showAfterSeconds": 59,
-    "timestamp": 1734576237057,
+    "showAfterSeconds": 3600,
+    "timestamp": 1734576359103,
     "word": "escort"
   },
   {
@@ -14,10 +14,10 @@
     "word": "cause"
   },
   {
-    "word": "modify",
     "description": "(v) biến đổi, sửa đổi",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734576307260,
-    "previousInterval": 0
+    "word": "modify"
   }
 ]
