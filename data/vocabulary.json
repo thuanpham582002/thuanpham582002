@@ -343,10 +343,17 @@
     "word": "force"
   },
   {
-    "word": "awhile",
     "description": "(adv) một lúc, chốc lát",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734655039101,
+    "word": "awhile"
+  },
+  {
+    "word": "pot",
+    "description": "(n) ấm, bình, chậu, hũ",
+    "showAfterSeconds": 59,
+    "timestamp": 1734655040315,
     "previousInterval": 0
   }
 ]
