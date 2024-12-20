@@ -217,10 +217,17 @@
     "word": "ambition"
   },
   {
-    "word": "absolutely",
     "description": "(adv) tuyệt đối, hoàn toàn",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734654620983,
+    "word": "absolutely"
+  },
+  {
+    "word": "afraid",
+    "description": "(adj) /ə'freid/ sợ, sợ hãi, hoảng sợ",
+    "showAfterSeconds": 60,
+    "timestamp": 1734654623628,
     "previousInterval": 0
   }
 ]
