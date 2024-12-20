@@ -203,10 +203,24 @@
     "word": "adequate"
   },
   {
-    "word": "comprehension",
     "description": "(n) sự hiểu, sự nhận thức, bao quát",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734654619396,
+    "word": "comprehension"
+  },
+  {
+    "description": "(n) tham vọng",
+    "previousInterval": 0,
+    "showAfterSeconds": 59,
+    "timestamp": 1734654620279,
+    "word": "ambition"
+  },
+  {
+    "word": "absolutely",
+    "description": "(adv) tuyệt đối, hoàn toàn",
+    "showAfterSeconds": 60,
+    "timestamp": 1734654620983,
     "previousInterval": 0
   }
 ]
