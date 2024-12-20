@@ -189,10 +189,17 @@
     "word": "judge"
   },
   {
-    "word": "remodel",
     "description": "(v) cải tạo",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734654614670,
+    "word": "remodel"
+  },
+  {
+    "word": "adequate",
+    "description": "(adj) đầy, đầy đủ, thích hợp",
+    "showAfterSeconds": 59,
+    "timestamp": 1734654617292,
     "previousInterval": 0
   }
 ]
