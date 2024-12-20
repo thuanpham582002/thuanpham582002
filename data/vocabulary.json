@@ -168,10 +168,24 @@
     "word": "bracelet"
   },
   {
-    "word": "orientation",
     "description": "(n) sự định hướng",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734654609141,
+    "word": "orientation"
+  },
+  {
+    "description": "(n) đơn thuốc",
+    "previousInterval": 0,
+    "showAfterSeconds": 59,
+    "timestamp": 1734654610125,
+    "word": "prescription"
+  },
+  {
+    "word": "judge",
+    "description": "(n) thẩm phán, (v) phân xử, đánh giá",
+    "showAfterSeconds": 60,
+    "timestamp": 1734654611071,
     "previousInterval": 0
   }
 ]
