@@ -294,10 +294,17 @@
     "word": "in light of"
   },
   {
-    "word": "principle",
     "description": "(n): nguồn gốc, nguyên lý",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734654917942,
+    "word": "principle"
+  },
+  {
+    "word": "considerably",
+    "description": "(adv) đáng kể, quan trọng",
+    "showAfterSeconds": 60,
+    "timestamp": 1734654924511,
     "previousInterval": 0
   }
 ]
