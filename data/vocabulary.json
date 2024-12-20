@@ -154,10 +154,17 @@
     "word": "accomplishment"
   },
   {
-    "word": "ingredient",
     "description": "(n) thành phần, nguyên liệu",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734654605282,
+    "word": "ingredient"
+  },
+  {
+    "word": "bracelet",
+    "description": "(n) vòng tay",
+    "showAfterSeconds": 60,
+    "timestamp": 1734654606729,
     "previousInterval": 0
   }
 ]
