@@ -238,10 +238,17 @@
     "word": "course"
   },
   {
-    "word": "Acceptance",
     "description": "(n) sự chấp nhận",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734654627077,
+    "word": "Acceptance"
+  },
+  {
+    "word": "commence",
+    "description": "(v) bắt đầu, khởi đầu",
+    "showAfterSeconds": 59,
+    "timestamp": 1734654637341,
     "previousInterval": 0
   }
 ]
