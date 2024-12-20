@@ -147,10 +147,17 @@
     "word": "circumstance"
   },
   {
-    "word": "accomplishment",
     "description": "(n) thành tựu, sự hoàn thành",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734654603476,
+    "word": "accomplishment"
+  },
+  {
+    "word": "ingredient",
+    "description": "(n) thành phần, nguyên liệu",
+    "showAfterSeconds": 59,
+    "timestamp": 1734654605282,
     "previousInterval": 0
   }
 ]
