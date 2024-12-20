@@ -161,10 +161,17 @@
     "word": "ingredient"
   },
   {
-    "word": "bracelet",
     "description": "(n) vòng tay",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734654606729,
+    "word": "bracelet"
+  },
+  {
+    "word": "orientation",
+    "description": "(n) sự định hướng",
+    "showAfterSeconds": 59,
+    "timestamp": 1734654609141,
     "previousInterval": 0
   }
 ]
