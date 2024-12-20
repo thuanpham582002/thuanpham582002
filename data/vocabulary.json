@@ -182,10 +182,17 @@
     "word": "prescription"
   },
   {
-    "word": "judge",
     "description": "(n) thẩm phán, (v) phân xử, đánh giá",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734654611071,
+    "word": "judge"
+  },
+  {
+    "word": "remodel",
+    "description": "(v) cải tạo",
+    "showAfterSeconds": 60,
+    "timestamp": 1734654614670,
     "previousInterval": 0
   }
 ]
