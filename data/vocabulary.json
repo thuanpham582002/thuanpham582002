@@ -280,10 +280,17 @@
     "word": "acquisition"
   },
   {
-    "word": "act",
     "description": "(n) (v) /ækt/ hành động, hành vi, cử chỉ, đối xử",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734654911291,
+    "word": "act"
+  },
+  {
+    "word": "in light of",
+    "description": "(prep) bởi vì",
+    "showAfterSeconds": 59,
+    "timestamp": 1734654914219,
     "previousInterval": 0
   }
 ]
