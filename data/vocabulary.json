@@ -231,10 +231,17 @@
     "word": "afraid"
   },
   {
-    "word": "course",
     "description": "(n) khoá học, món ăn",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734654625824,
+    "word": "course"
+  },
+  {
+    "word": "Acceptance",
+    "description": "(n) sự chấp nhận",
+    "showAfterSeconds": 59,
+    "timestamp": 1734654627077,
     "previousInterval": 0
   }
 ]
