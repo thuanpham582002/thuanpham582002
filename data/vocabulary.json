@@ -273,10 +273,17 @@
     "word": "evolve"
   },
   {
-    "word": "acquisition",
     "description": "(n) sự thâu tóm, mua lại",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734654894667,
+    "word": "acquisition"
+  },
+  {
+    "word": "act",
+    "description": "(n) (v) /ækt/ hành động, hành vi, cử chỉ, đối xử",
+    "showAfterSeconds": 59,
+    "timestamp": 1734654911291,
     "previousInterval": 0
   }
 ]
