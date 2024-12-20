@@ -252,10 +252,17 @@
     "word": "commence"
   },
   {
-    "word": "routine",
     "description": "(adj) (n) thói quen, thường lệ",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734654858286,
+    "word": "routine"
+  },
+  {
+    "word": "enormously",
+    "description": "(adv) to lớn, khổng lồ",
+    "showAfterSeconds": 59,
+    "timestamp": 1734654869229,
     "previousInterval": 0
   }
 ]
