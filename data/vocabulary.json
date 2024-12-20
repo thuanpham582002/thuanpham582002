@@ -133,10 +133,17 @@
     "word": "so far"
   },
   {
-    "word": "vocational",
     "description": "(adj) liên quan đến nghề nghiệp, dạy nghề. [ vəʊˈkeɪʃənl ]",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734654189505,
+    "word": "vocational"
+  },
+  {
+    "word": "circumstance",
+    "description": "(n) điều kiện, hoàn cảnh, tình huống",
+    "showAfterSeconds": 60,
+    "timestamp": 1734654199631,
     "previousInterval": 0
   }
 ]
