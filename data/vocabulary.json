@@ -15,9 +15,9 @@
   },
   {
     "description": "(v) biến đổi, sửa đổi",
-    "previousInterval": 0,
-    "showAfterSeconds": 3600,
-    "timestamp": 1734582832125,
+    "previousInterval": 86400,
+    "showAfterSeconds": 345600,
+    "timestamp": 1734685035570,
     "word": "modify"
   },
   {
