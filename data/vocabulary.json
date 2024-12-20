@@ -117,5 +117,12 @@
     "showAfterSeconds": 345600,
     "timestamp": 1734590544937,
     "word": "traffic"
+  },
+  {
+    "word": "hand out",
+    "description": "(v) phát (vé)",
+    "showAfterSeconds": 59,
+    "timestamp": 1734654132053,
+    "previousInterval": 0
   }
 ]
