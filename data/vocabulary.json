@@ -119,10 +119,17 @@
     "word": "traffic"
   },
   {
-    "word": "hand out",
     "description": "(v) phát (vé)",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734654132053,
+    "word": "hand out"
+  },
+  {
+    "word": "so far",
+    "description": "(adv) cho đến nay",
+    "showAfterSeconds": 60,
+    "timestamp": 1734654139672,
     "previousInterval": 0
   }
 ]
