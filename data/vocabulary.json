@@ -301,10 +301,17 @@
     "word": "principle"
   },
   {
-    "word": "considerably",
     "description": "(adv) đáng kể, quan trọng",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734654924511,
+    "word": "considerably"
+  },
+  {
+    "word": "show up",
+    "description": "(v) xuất hiện",
+    "showAfterSeconds": 60,
+    "timestamp": 1734654928922,
     "previousInterval": 0
   }
 ]
