@@ -245,10 +245,17 @@
     "word": "Acceptance"
   },
   {
-    "word": "commence",
     "description": "(v) bắt đầu, khởi đầu",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734654637341,
+    "word": "commence"
+  },
+  {
+    "word": "routine",
+    "description": "(adj) (n) thói quen, thường lệ",
+    "showAfterSeconds": 59,
+    "timestamp": 1734654858286,
     "previousInterval": 0
   }
 ]
