@@ -196,10 +196,17 @@
     "word": "remodel"
   },
   {
-    "word": "adequate",
     "description": "(adj) đầy, đầy đủ, thích hợp",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734654617292,
+    "word": "adequate"
+  },
+  {
+    "word": "comprehension",
+    "description": "(n) sự hiểu, sự nhận thức, bao quát",
+    "showAfterSeconds": 59,
+    "timestamp": 1734654619396,
     "previousInterval": 0
   }
 ]
