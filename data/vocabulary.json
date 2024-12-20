@@ -3,7 +3,7 @@
     "description": "(n) người dẫn đường, người đi theo, người hộ tống, (v)",
     "previousInterval": 0,
     "showAfterSeconds": 60,
-    "timestamp": 1734591179496,
+    "timestamp": 1734684092629,
     "word": "escort"
   },
   {
@@ -392,10 +392,10 @@
     "word": "bin"
   },
   {
-    "word": "absence",
     "description": "(n) /'æbsəns/ sự vắng mặt",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734655047739,
-    "previousInterval": 0
+    "word": "absence"
   }
 ]
