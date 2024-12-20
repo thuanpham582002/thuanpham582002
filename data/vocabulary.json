@@ -259,10 +259,17 @@
     "word": "routine"
   },
   {
-    "word": "enormously",
     "description": "(adv) to lớn, khổng lồ",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734654869229,
+    "word": "enormously"
+  },
+  {
+    "word": "evolve",
+    "description": "(v) [ ɪˈvɑːlv ] phát triển, tiến triển",
+    "showAfterSeconds": 59,
+    "timestamp": 1734654884445,
     "previousInterval": 0
   }
 ]
