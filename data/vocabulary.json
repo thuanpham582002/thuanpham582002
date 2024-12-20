@@ -357,10 +357,24 @@
     "word": "pot"
   },
   {
-    "word": "asset",
     "description": "(n) tài sản, của cải",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734655041780,
+    "word": "asset"
+  },
+  {
+    "description": "(adj) trước, ưu tiên",
+    "previousInterval": 0,
+    "showAfterSeconds": 59,
+    "timestamp": 1734655043011,
+    "word": "prior"
+  },
+  {
+    "word": "labor",
+    "description": "(n) nhân công",
+    "showAfterSeconds": 59,
+    "timestamp": 1734655044186,
     "previousInterval": 0
   }
 ]
