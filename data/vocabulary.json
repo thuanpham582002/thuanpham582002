@@ -266,10 +266,17 @@
     "word": "enormously"
   },
   {
-    "word": "evolve",
     "description": "(v) [ ɪˈvɑːlv ] phát triển, tiến triển",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734654884445,
+    "word": "evolve"
+  },
+  {
+    "word": "acquisition",
+    "description": "(n) sự thâu tóm, mua lại",
+    "showAfterSeconds": 60,
+    "timestamp": 1734654894667,
     "previousInterval": 0
   }
 ]
