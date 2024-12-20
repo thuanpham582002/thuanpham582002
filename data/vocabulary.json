@@ -329,10 +329,24 @@
     "word": "aesthetic"
   },
   {
-    "word": "entitle",
     "description": "(v) cho quyền (làm gì)",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734655037209,
+    "word": "entitle"
+  },
+  {
+    "description": "(n) ảnh hưởng, có hiệu lực; (v) bặt buộc, ép",
+    "previousInterval": 0,
+    "showAfterSeconds": 59,
+    "timestamp": 1734655038038,
+    "word": "force"
+  },
+  {
+    "word": "awhile",
+    "description": "(adv) một lúc, chốc lát",
+    "showAfterSeconds": 59,
+    "timestamp": 1734655039101,
     "previousInterval": 0
   }
 ]
