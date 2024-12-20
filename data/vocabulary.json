@@ -224,10 +224,17 @@
     "word": "absolutely"
   },
   {
-    "word": "afraid",
     "description": "(adj) /ə'freid/ sợ, sợ hãi, hoảng sợ",
+    "previousInterval": 0,
     "showAfterSeconds": 60,
     "timestamp": 1734654623628,
+    "word": "afraid"
+  },
+  {
+    "word": "course",
+    "description": "(n) khoá học, món ăn",
+    "showAfterSeconds": 60,
+    "timestamp": 1734654625824,
     "previousInterval": 0
   }
 ]
