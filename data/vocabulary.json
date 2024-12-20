@@ -315,10 +315,17 @@
     "word": "show up"
   },
   {
-    "word": "navigate",
     "description": "(v) định vị, tìm vị trí",
+    "previousInterval": 0,
     "showAfterSeconds": 59,
     "timestamp": 1734654932334,
+    "word": "navigate"
+  },
+  {
+    "word": "aesthetic",
+    "description": "(adj) thẩm mỹ",
+    "showAfterSeconds": 60,
+    "timestamp": 1734655031968,
     "previousInterval": 0
   }
 ]
