@@ -54,14 +54,13 @@ spec:
 ## 🌱 Learning & Growth
 
 ```mermaid
-gitgraph
-    commit id: "DevOps Fundamentals"
-    commit id: "Container Technologies"
-    commit id: "Kubernetes Mastery"
-    commit id: "Cloud Native Patterns"
-    commit id: "Reliability Engineering"
-    commit id: "Current: Backstage & PipeCD"
-    commit id: "Future: WASM & Edge Computing"
+flowchart LR
+    A[DevOps Fundamentals] --> B[Container Technologies]
+    B --> C[Kubernetes Mastery]
+    C --> D[Cloud Native Patterns]
+    D --> E[Reliability Engineering]
+    E --> F[Current: Backstage & PipeCD]
+    F --> G[Future: WASM & Edge Computing]
 ```
 
 ## 📫 Connect with me
