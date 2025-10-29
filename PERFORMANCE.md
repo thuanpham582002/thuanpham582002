@@ -73,7 +73,7 @@ All external image services now include cache control parameters:
 | GitHub Stats | 24 hours | Stats update daily, hourly refresh not needed |
 | Streak Stats | 24 hours | Daily stat, no need for frequent updates |
 | Top Languages | 24 hours | Language distribution changes slowly |
-| Profile Views | Refreshed per visit | Needs to count each view |
+| Profile Views | No explicit cache | View counter service manages its own caching internally |
 
 **Cache Parameters:**
 - `cache_seconds=86400`: Instructs services to cache for 24 hours
@@ -179,14 +179,15 @@ All external image services now include cache control parameters:
 
 2. **Check Cache Headers:**
    ```bash
-   curl -I "https://readme-typing-svg.demolab.com/..."
-   # Look for Cache-Control headers
+   curl -I "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&cache_seconds=86400"
+   # Look for Cache-Control headers in the response
    ```
 
 3. **Monitor External Services:**
-   - Check status pages: status.demolab.com
+   - Check service uptime and performance regularly
    - Monitor response times periodically
    - Have fallback services ready if needed
+   - Note: Verify actual status page URLs for each service provider
 
 ### Maintenance Schedule
 
