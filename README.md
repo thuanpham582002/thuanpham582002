@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Native+Enthusiast;Kubernetes+Specialist)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Native+Enthusiast;Kubernetes+Specialist&duration=3000&cache_seconds=86400)
 
 </div>
 
@@ -39,11 +39,11 @@ spec:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuanpham582002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuanpham582002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400&rank_icon=github)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuanpham582002&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=thuanpham582002&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thuanpham582002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thuanpham582002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400&langs_count=8&hide=html,css)
 
 </div>
 
@@ -72,7 +72,7 @@ flowchart LR
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=thuanpham582002&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=thuanpham582002&color=blueviolet&style=for-the-badge&abbreviated=true)
 
 ⭐️ From [thuanpham582002](https://github.com/thuanpham582002)
 
