@@ -22,13 +22,6 @@
 **DevOps Engineer** at **[Viettel Software](https://viettel.com.vn)**  
 Building and scaling cloud-native infrastructure for Vietnam's leading tech company.
 
-### 💡 Expertise
-- ☸️ Kubernetes & Container Orchestration
-- 🏗️ Infrastructure as Code (Terraform, Ansible)
-- 🔄 CI/CD Pipeline Engineering
-- 📊 Observability & Monitoring (Prometheus, Grafana)
-- 🔐 Security & Compliance Automation
-
 </td>
 <td width="50%">
 
