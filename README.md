@@ -36,12 +36,6 @@ Building and scaling cloud-native infrastructure for Vietnam's leading tech comp
 - 🏅 **Certified Kubernetes Administrator (CKA)**
 - 📚 Continuous learner in Cloud Native technologies
 
-### 🌱 Currently Exploring
-- Platform Engineering with Backstage
-- GitOps with PipeCD & ArgoCD
-- Service Mesh (Istio, Linkerd)
-- Edge Computing & WebAssembly
-
 </td>
 </tr>
 </table>
@@ -51,14 +45,6 @@ Building and scaling cloud-native infrastructure for Vietnam's leading tech comp
 ## 🛠️ Technology Stack
 
 <div align="center">
-
-### Core Technologies
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 ### Cloud & Platforms
 
@@ -104,55 +90,6 @@ Building and scaling cloud-native infrastructure for Vietnam's leading tech comp
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanpham582002&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=3B82F6&text_color=FFFFFF&langs_count=8&hide=html,css" />
 
 </div>
-
----
-
-## 🎯 Professional Journey
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#3B82F6','primaryTextColor':'#fff','primaryBorderColor':'#3B82F6','lineColor':'#3B82F6','secondaryColor':'#1F222E','tertiaryColor':'#1F222E','fontSize':'16px'}}}%%
-timeline
-    title My DevOps Journey
-    2020 : Started DevOps Learning
-         : Mastered Linux & Scripting
-    2021 : Docker & Containerization
-         : First Kubernetes Cluster
-    2022 : Infrastructure as Code
-         : CI/CD Implementation
-    2023 : Joined Viettel Software
-         : CKA Certification
-         : Production K8s at Scale
-    2024 : Platform Engineering
-         : GitOps & Service Mesh
-         : Cloud Native Architecture
-```
-
----
-
-## 💼 What I Do
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🏗️ Infrastructure
-Design and implement scalable, resilient cloud infrastructure using IaC principles. Automate everything from provisioning to deployment.
-
-</td>
-<td width="33%" align="center">
-
-### 🔄 CI/CD
-Build robust pipelines that enable teams to ship features faster and safer. Implement GitOps practices for declarative deployments.
-
-</td>
-<td width="33%" align="center">
-
-### 📊 Observability
-Establish comprehensive monitoring, logging, and tracing solutions. Enable data-driven decisions and proactive incident response.
-
-</td>
-</tr>
-</table>
 
 ---
 
