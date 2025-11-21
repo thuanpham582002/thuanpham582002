@@ -164,7 +164,7 @@ gitlab/runner                 latest           200MB     GitLab CI/CD
 2023-10  > argocd app create --sync-policy automated
 2024-01  > git clone https://github.com/backstage/backstage.git
 2024-03  > pipecd init --enable-kubernetes
-2024-06  > kubectl scale deployment/skills --replicas=∞
+2024-06  > kubectl scale deployment/skills --replicas=unlimited
 2024-09  > while true; do learn new-technology; done &
 2024-11  > echo "Exploring WASM & Edge Computing..." >> future-plans.txt
 2024-11  > curl -X POST https://linkedin.com/in/tienthuan05082002
@@ -244,7 +244,7 @@ flowchart LR
 ```bash
 ╔══════════════════════════════════════════════════════════════════╗
 ║  System Status: ✅ OPERATIONAL | Uptime: 99.99%                 ║
-║  Last Updated: $(date +%Y-%m-%d)                                ║
+║  Last Updated: 2024-11-21                                       ║
 ║  Next Milestone: Platform Engineering Mastery                   ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
