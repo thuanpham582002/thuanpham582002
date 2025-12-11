@@ -42,7 +42,7 @@ Building and scaling cloud-native infrastructure for Vietnam's leading tech comp
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thuanpham582002&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=thuanpham582002&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&rank_icon=github&format=svg" />
 
 </td>
 <td width="50%">
@@ -53,7 +53,7 @@ Building and scaling cloud-native infrastructure for Vietnam's leading tech comp
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanpham582002&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=3B82F6&text_color=FFFFFF&langs_count=8&hide=html,css" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanpham582002&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=3B82F6&text_color=FFFFFF&langs_count=8&hide=html,css&format=svg" />
 
 </div>
 
